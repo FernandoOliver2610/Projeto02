@@ -1,0 +1,35 @@
+# Projeto: Análise de Dados e Dashboard no Power BI
+
+## 📌 Objetivo do Projeto
+O objetivo deste projeto foi analisar um conjunto de dados contendo informações de RGs emitidos em diferentes estados do Brasil e identificar possíveis fraudes por meio da detecção de duplicatas e padrões anômalos. A análise foi representada visualmente em um **dashboard interativo no Power BI**.
+
+## 🛠 Ferramentas Utilizadas
+- **Power BI** para criação do dashboard e visualização de dados.
+- **Python (Pandas)** para limpeza e preparação dos dados.
+- **Excel** para manipulação inicial e armazenamento da base de dados.
+- **SQL** (opcional) para consultas mais aprofundadas.
+
+## 🔍 Processamento e Limpeza de Dados
+1. **Carregamento dos Dados:** A base de dados foi importada no formato Excel e analisada no Python para identificação de inconsistências.
+2. **Tratamento de Dados Nulos:** A verificação mostrou que não havia valores nulos, garantindo que o conjunto estava completo.
+3. **Conversão de Tipos de Dados:** Datas de nascimento foram convertidas para formato adequado e idades foram calculadas.
+4. **Identificação de Duplicatas:** Foram identificados RGs duplicados, um possível indicativo de fraude no sistema.
+
+## 📊 Principais Insights do Dashboard
+- **Distribuição de RGs por Estado:** Identificação dos estados com maior volume de emissões.
+- **Faixa Etária dos Usuários:** Idade média dos portadores dos RGs, com destaque para a maior e menor idade.
+- **Proporção por Gênero:** Comparação entre a quantidade de registros masculinos e femininos.
+- **Detecção de RGs Duplicados:** Análise para encontrar registros suspeitos e possíveis fraudes.
+
+## 📌 Conclusão
+O projeto demonstrou como **análises exploratórias e dashboards interativos** podem ser utilizados para detecção de fraudes e monitoramento de padrões nos dados. O uso de Power BI permitiu criar **visualizações claras e intuitivas**, facilitando a identificação de anomalias e tendências.
+
+📌 **Próximos Passos:**
+- Implementar automação para atualização contínua dos dados.
+- Utilizar machine learning para prever padrões de fraude.
+- Expandir a análise para outras bases de dados governamentais.
+
+🔗 **LinkedIn:** [Fernando Costa de Oliveira](https://www.linkedin.com/in/fernando-costa-de-oliveira-97b124348)  
+📧 **Contato:** [sobretudoxp@gmail.com]
+
+
